@@ -1,0 +1,7 @@
+.idea
+venv
+/curses_test.py
+/gpio_test.py
+/keys.py
+/motors.py
+/example.py
